@@ -1,7 +1,7 @@
 # basic-auth
 [server online](https://esraa-basic-auth.onrender.com/)
 
-[Pull request](https://github.com/esraaobeido/api-server/pull/3)
+[Pull request](https://github.com/esraaobeido/basic-auth/pull/2)
 
 [Github Action](https://github.com/esraaobeido/basic-auth/actions)
 
